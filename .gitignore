@@ -1,0 +1,4 @@
+.retest/
+target/
+src/test/resources/drivers/chromedriver
+src/test/resources/retest/
